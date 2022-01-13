@@ -1,2 +1,2 @@
-# DecoratorDesignPatternPOC1
-Decorator Design Pattern POC1
+# DecoratorDesignPatternPOC
+Decorator Design Pattern POC
